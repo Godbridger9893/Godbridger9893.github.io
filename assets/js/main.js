@@ -1,1 +1,0 @@
-console.log("Immortal Client Calm Edition loaded.");
